@@ -1,7 +1,7 @@
 <template>
     <UMain>
         <UPageHero title="Nordstream Resource Management Limited"
-            description=" Providing Innovative & Sustainable Energy Solutions." :links="links" headline="Coming Soon" />
+            description=" Providing Innovative & Sustainable Energy Solutions." :links="links" headline="Coming Soon. Website under construction." />
     </UMain>
     <UFooter class="absolute bottom-6 text-gray-500 text-sm">
         © {{ new Date().getFullYear() }} Nordstream Resource Management Ltd. All rights reserved.
